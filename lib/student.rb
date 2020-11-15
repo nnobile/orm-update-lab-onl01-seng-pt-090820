@@ -70,9 +70,9 @@ class Student
   end
 
   def update
-    UPDATE students
-    SET column1 = value1, column2 = value2, ...
-    WHERE condition;
+    # UPDATE students
+    # SET column1 = value1, column2 = value2
+    # WHERE condition;
   end
 
 
